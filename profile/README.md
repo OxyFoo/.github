@@ -1,3 +1,3 @@
 # OxyFoo
 
-[Wiki privé](/OxyFoo/Documentation/wiki)
+[Wiki privé](https://github.com/OxyFoo/Documentation/wiki)
