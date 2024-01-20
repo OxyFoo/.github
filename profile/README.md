@@ -1,3 +1,3 @@
 # OxyFoo
 
-Test
+[Wiki privé](/OxyFoo/Documentation/wiki)
